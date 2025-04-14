@@ -1,4 +1,4 @@
-Curso de Python para Data Science - Alura Latam
+Curso de Python para Data Science primeros pasos - Alura Latam
 
 Descripción:
 Este repositorio contiene mis apuntes, ejercicios y desafíos del curso de Python para Data Science primeros pasos de Alura Latam. 
